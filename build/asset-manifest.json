@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.84a0c18f.chunk.css",
-    "main.js": "./static/js/main.cc8c3a18.chunk.js",
-    "main.js.map": "./static/js/main.cc8c3a18.chunk.js.map",
+    "main.js": "./static/js/main.a66c26f9.chunk.js",
+    "main.js.map": "./static/js/main.a66c26f9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.36b12dfd.js",
     "runtime-main.js.map": "./static/js/runtime-main.36b12dfd.js.map",
     "static/css/2.24298141.chunk.css": "./static/css/2.24298141.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/direct.216dfd63.png": "./static/media/direct.216dfd63.png",
     "static/media/female-default.c0c61518.png": "./static/media/female-default.c0c61518.png",
     "static/media/goglobalschool.cd293cd0.png": "./static/media/goglobalschool.cd293cd0.png",
-    "static/media/male-default.562ebfd3.png": "./static/media/male-default.562ebfd3.png",
+    "static/media/male-default.c461e452.png": "./static/media/male-default.c461e452.png",
     "static/media/notdirect.a2fd079a.png": "./static/media/notdirect.a2fd079a.png",
     "static/media/open-area.70f8fc85.png": "./static/media/open-area.70f8fc85.png",
     "static/media/recover.5d6bc409.png": "./static/media/recover.5d6bc409.png",
@@ -35,6 +35,6 @@
     "static/css/2.24298141.chunk.css",
     "static/js/2.e6dd797e.chunk.js",
     "static/css/main.84a0c18f.chunk.css",
-    "static/js/main.cc8c3a18.chunk.js"
+    "static/js/main.a66c26f9.chunk.js"
   ]
 }
