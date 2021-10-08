@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.159c4eb7.chunk.css",
-    "main.js": "./static/js/main.8c40669f.chunk.js",
-    "main.js.map": "./static/js/main.8c40669f.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.f4f0104b.js",
-    "runtime-main.js.map": "./static/js/runtime-main.f4f0104b.js.map",
+    "main.css": "./static/css/main.1e97dc02.chunk.css",
+    "main.js": "./static/js/main.56993719.chunk.js",
+    "main.js.map": "./static/js/main.56993719.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ed8f7f86.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ed8f7f86.js.map",
     "static/css/2.24298141.chunk.css": "./static/css/2.24298141.chunk.css",
-    "static/js/2.a7afe928.chunk.js": "./static/js/2.a7afe928.chunk.js",
-    "static/js/2.a7afe928.chunk.js.map": "./static/js/2.a7afe928.chunk.js.map",
-    "static/js/3.19efcfd4.chunk.js": "./static/js/3.19efcfd4.chunk.js",
-    "static/js/3.19efcfd4.chunk.js.map": "./static/js/3.19efcfd4.chunk.js.map",
+    "static/js/2.e0e75534.chunk.js": "./static/js/2.e0e75534.chunk.js",
+    "static/js/2.e0e75534.chunk.js.map": "./static/js/2.e0e75534.chunk.js.map",
+    "static/js/3.12cf1770.chunk.js": "./static/js/3.12cf1770.chunk.js",
+    "static/js/3.12cf1770.chunk.js.map": "./static/js/3.12cf1770.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.24298141.chunk.css.map": "./static/css/2.24298141.chunk.css.map",
-    "static/css/main.159c4eb7.chunk.css.map": "./static/css/main.159c4eb7.chunk.css.map",
-    "static/js/2.a7afe928.chunk.js.LICENSE.txt": "./static/js/2.a7afe928.chunk.js.LICENSE.txt",
+    "static/css/main.1e97dc02.chunk.css.map": "./static/css/main.1e97dc02.chunk.css.map",
+    "static/js/2.e0e75534.chunk.js.LICENSE.txt": "./static/js/2.e0e75534.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/TACTENG.89f59e5d.TTF",
+    "static/media/back-qr.30988743.png": "./static/media/back-qr.30988743.png",
     "static/media/close-area.6b62123e.png": "./static/media/close-area.6b62123e.png",
     "static/media/cover-bg.ed223e12.jpg": "./static/media/cover-bg.ed223e12.jpg",
     "static/media/App.css": "./static/media/covid-19-bg.70a9f37a.png",
@@ -33,10 +34,10 @@
     "static/media/srLogo.c819ad81.png": "./static/media/srLogo.c819ad81.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4f0104b.js",
+    "static/js/runtime-main.ed8f7f86.js",
     "static/css/2.24298141.chunk.css",
-    "static/js/2.a7afe928.chunk.js",
-    "static/css/main.159c4eb7.chunk.css",
-    "static/js/main.8c40669f.chunk.js"
+    "static/js/2.e0e75534.chunk.js",
+    "static/css/main.1e97dc02.chunk.css",
+    "static/js/main.56993719.chunk.js"
   ]
 }
